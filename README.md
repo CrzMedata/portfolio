@@ -48,8 +48,8 @@ _MD_
 - Elio Lugaresi Award for Young Investigator from World Association of Sleep Medicine, 2011  
 
 ## Projects
-### **Racial Disparity in the Associations of Cotinine with Insulin Secretion: Data from NHANES 2007-2012**
-- **Publication**: This study used the data from the National Health and Nutrition Examination Survey (NHANES) from 2007-2012, using multiple logistic regression models with a survey package from R.  
+### **Racial Disparity in the Associations of Cotinine with Insulin Secretion: Data from NHANES 2007-2012** [publication][https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167260]
+- **Objective**: This study used the data from the National Health and Nutrition Examination Survey (NHANES) from 2007-2012, using multiple logistic regression models with a survey package from R.  
 - **Background**: Although relationships between smoking/high cotinine and type 2 diabetes have consistently been observed, few studies have investigated the relationship between cotinine and underlying pathophysiological defects that characterize diabetes etiology. This study aimed to test the associations between cotinine and measures of insulin resistance or insulin secretion.
 - **Methods**: This analysis included 5,751 non-diabetic adult Americans from NHANES (2007-2012). Insulin function was represented with two indexes: insulin resistance index (HOMA-IR) and insulin secretion index (HOMA-B) estimated by homeostasis model assessment.
 - **Results**: Cotinine concentration was not associated with the risk of high HOMA-IR. Association of cotinine with low HOMA-B existed and differed by race/ethnicity (P for interaction <0.05). High cotinine concentration was associated with an increased risk of low HOMA-B among white and black participants but not among Mexican or other Hispanic participants.
