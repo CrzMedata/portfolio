@@ -1,4 +1,4 @@
-
+## A journey from a clinician to an epidemiologist and data scientist ...
 San Diego, CA  
 858.353.4025  
 rongliu606@gmail.com  
