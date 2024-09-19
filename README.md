@@ -1,5 +1,4 @@
-# Rong Liu  
-**Data Analyst/Statistician**  
+
 San Diego, CA  
 858.353.4025  
 rongliu606@gmail.com  
