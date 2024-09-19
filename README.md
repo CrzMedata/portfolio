@@ -5,10 +5,10 @@ San Diego, CA
 rongliu606@gmail.com  
 
 ## Skills
-- Data analysis, data modeling, quantitative analytics  
-- Proficiency with R, Python, SAS, SQL, Tableau, Power BI, Excel  
-- Experience on NHANES dataset and cohort studies  
-- In-depth knowledge of healthcare, social determinants of health, clinical medicine, population health  
+- **Data analysis, data modeling, quantitative analytics**  
+- **Proficiency with R, Python, SAS, SQL, Tableau, Power BI, Excel**  
+- **Experience on NHANES dataset and cohort studies**  
+- **In-depth knowledge of healthcare, social determinants of health, clinical medicine, population health**  
 
 ## Experience
 **UNIMEDSCI, Wuxi, China**  
