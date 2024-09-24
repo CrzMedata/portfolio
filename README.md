@@ -1,4 +1,5 @@
-**Transitioned from clinical practice to roles in epidemiology and data science, leveraging extensive research experience and a deep-seated passion for healthcare data analysis. Authored multiple publications in peer-reviewed journals...**
+*Transitioned from clinical practice to roles in epidemiology and data science, leveraging extensive research experience and a deep-seated passion for healthcare data analysis. Authored multiple publications in peer-reviewed journals...*
+
 San Diego, CA  
 858.353.4025  
 rongliu606@gmail.com  
